@@ -1,1 +1,1 @@
-# Carwashbooking-system
+# Laundrymanagement system
